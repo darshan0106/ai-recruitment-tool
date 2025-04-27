@@ -109,23 +109,6 @@ Once the servers are running:
 - The backend runs on http://localhost:5000.
 
 
-## Folder Structure
-recruitment-platform/
-├── backend/
-│   ├── models/         # Mongoose Schemas (Job, Company, Candidate)
-│   ├── routes/         # Backend API Routes
-│   ├── controllers/    # API Controllers
-│   ├── server.js       # Entry Point for Backend
-│   ├── .env            # Environment Variables
-├── frontend/
-│   ├── src/
-│   │   ├── components/ # Reusable Components
-│   │   ├── pages/      # App Pages (Dashboard, Login, etc.)
-│   │   ├── App.js      # React Entry Point
-│   │   ├── index.js    # React DOM Render
-├── README.md            # Project Documentation
-
-
 
 ## Contributing
 Contributions are welcome! If you have ideas or encounter any issues, feel free to:
